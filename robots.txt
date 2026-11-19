@@ -1,0 +1,4 @@
+# Concept site: change to 'Allow: /' and add the sitemap line when launched
+User-agent: *
+Disallow: /
+# Sitemap: https://blueridge-plumbing.example/sitemap.xml
